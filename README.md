@@ -2,7 +2,7 @@
 
 **Bongo Cat Keyboard Overlay** is the free bongo cat keyboard overlay for OBS and Streamlabs. A bongo cat plugin native source plus window capture: paws follow typing, clicks and a gamepad. Came from bongo cat steam, a bongo cat gif, or the bongo cat game? This bongo cat github / github bongo cat repo is the overlay - bongo cat v2 skins included.
 
-<img width="894" height="894" alt="images1" src="https://github.com/user-attachments/assets/65d27647-a394-4956-842c-fd5d965d79ba" />
+<img width="194" height="194" alt="images1" src="https://github.com/user-attachments/assets/65d27647-a394-4956-842c-fd5d965d79ba" />
 <img width="3516" height="2220" alt="images2" src="https://github.com/user-attachments/assets/86b9400d-7cc2-4dde-82d5-a43307f91ebb" />
 <img width="3516" height="2220" alt="images3" src="https://github.com/user-attachments/assets/8e395cd6-1213-4067-8868-defd5686f5cd" />
 
